@@ -67,9 +67,3 @@ Coverage focuses on filtering/sorting/grouping, geospatial utilities, sync offli
 - ![Launch detail Overview with bookmark note](https://lh3.googleusercontent.com/d/1c8jmp2806t_ibWh3gn5zf62wyLK0y-ke)
 - ![Launch detail Launchpad map](https://lh3.googleusercontent.com/d/14M3-Xte-onIMW6SZ02c8uBRDvuPdI6UF)
 - ![Mission Details Page](https://lh3.googleusercontent.com/d/1ZiaoveR51qPLX8-LzWg-DTJsrDsKjxLo)
-
-## Known Limitations And Trade-Offs
-
-The bonus items were skipped because the user selected `none`: no Detox/Maestro E2E, no full accessibility audit, no CI/CD workflow, no advanced AND/OR filters, no JSON export, and no shared-element transitions.
-
-The image cache target is documented at 64 MB and uses `expo-image` disk caching; a production hardening pass should add cache telemetry. Bookmark notes use AES with a SecureStore-backed key, but a maintained native AES/GCM module would be preferable for a shipping app after SDK compatibility review. Npm reports moderate advisories in the Expo/RN dependency tree that should be reviewed before release.
