@@ -64,11 +64,11 @@ Coverage focuses on filtering/sorting/grouping, geospatial utilities, sync offli
 
 Because this build was completed headlessly, capture these screens after running on a simulator/device:
 
-- ![Launch list](https://drive.google.com/file/d/1B1HugSzyAuDlf43KOH6TiiI_qCuXMM_G/view?usp=drive_link)
-- ![Launch list with filters applied](https://drive.google.com/file/d/13ii3l5725P9xGoQ1gPx-3cwOMkdHvjCl/view?usp=drive_link)
-- ![Launch detail Overview with bookmark note](https://drive.google.com/file/d/1c8jmp2806t_ibWh3gn5zf62wyLK0y-ke/view?usp=drive_link)
-- ![Launch detail Launchpad map](https://drive.google.com/file/d/14M3-Xte-onIMW6SZ02c8uBRDvuPdI6UF/view?usp=drive_link)
-- ![Mission Details Page](https://drive.google.com/file/d/1ZiaoveR51qPLX8-LzWg-DTJsrDsKjxLo/view?usp=drive_link)
+- ![Launch list](https://lh3.googleusercontent.com/d/1B1HugSzyAuDlf43KOH6TiiI_qCuXMM_G)
+- ![Launch list with filters applied](https://lh3.googleusercontent.com/d/13ii3l5725P9xGoQ1gPx-3cwOMkdHvjCl)
+- ![Launch detail Overview with bookmark note](https://lh3.googleusercontent.com/d/1c8jmp2806t_ibWh3gn5zf62wyLK0y-ke)
+- ![Launch detail Launchpad map](https://lh3.googleusercontent.com/d/14M3-Xte-onIMW6SZ02c8uBRDvuPdI6UF)
+- ![Mission Details Page](https://lh3.googleusercontent.com/d/1ZiaoveR51qPLX8-LzWg-DTJsrDsKjxLo)
 
 ## Known Limitations And Trade-Offs
 
