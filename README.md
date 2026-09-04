@@ -60,9 +60,7 @@ npm run typecheck
 
 Coverage focuses on filtering/sorting/grouping, geospatial utilities, sync offline behavior, and the repository contract. It intentionally does not chase 100% coverage.
 
-## Screenshots To Capture Manually
-
-Because this build was completed headlessly, capture these screens after running on a simulator/device:
+## Screenshots
 
 - ![Launch list](https://lh3.googleusercontent.com/d/1B1HugSzyAuDlf43KOH6TiiI_qCuXMM_G)
 - ![Launch list with filters applied](https://lh3.googleusercontent.com/d/13ii3l5725P9xGoQ1gPx-3cwOMkdHvjCl)
